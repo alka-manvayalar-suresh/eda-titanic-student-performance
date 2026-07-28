@@ -1,14 +1,19 @@
+
 # Datasets
 
-This project uses two publicly available datasets to demonstrate Exploratory Data Analysis (EDA) techniques.
+This project uses two publicly available datasets for performing Exploratory Data Analysis (EDA).
 
 ---
 
-## Titanic Dataset
+# 🚢 Titanic Dataset
 
-### Description
+## Description
 
-The Titanic dataset contains passenger information from the RMS Titanic disaster. It is commonly used for data analysis, feature engineering, and machine learning projects.
+The Titanic dataset contains passenger information from the RMS Titanic disaster and is widely used for data analysis and machine learning.
+
+### Dataset Link
+
+https://www.kaggle.com/datasets/yasserh/titanic-dataset
 
 ### Features
 
@@ -17,27 +22,25 @@ The Titanic dataset contains passenger information from the RMS Titanic disaster
 - Name
 - Sex
 - Age
-- Number of Siblings/Spouses Aboard (SibSp)
-- Number of Parents/Children Aboard (Parch)
+- Siblings/Spouses Aboard (SibSp)
+- Parents/Children Aboard (Parch)
 - Ticket
 - Fare
 - Cabin
-- Embarked Port
+- Embarked
 - Survival Status
-
-### Source
-
-Kaggle Titanic Competition
-
-https://www.kaggle.com/datasets/yasserh/titanic-dataset
 
 ---
 
-## Student Performance Dataset
+# 🎓 Student Performance Dataset
 
-### Description
+## Description
 
-The Student Performance dataset contains demographic and academic information used to analyse the factors influencing students' examination performance.
+The Student Performance dataset contains demographic and academic information that can be used to analyse the factors affecting students' examination performance.
+
+### Dataset Link
+
+https://www.kaggle.com/datasets/adithyabshetty100/student-performance
 
 ### Features
 
@@ -50,25 +53,19 @@ The Student Performance dataset contains demographic and academic information us
 - Reading Score
 - Writing Score
 
-### Source
-
-Kaggle – Students Performance in Exams
-
-https://www.kaggle.com/datasets/adithyabshetty100/student-performance
-
 ---
 
-## Purpose
+# Purpose of the Datasets
 
 These datasets were selected to demonstrate common Exploratory Data Analysis (EDA) techniques, including:
 
 - Data Cleaning
 - Missing Value Analysis
-- Statistical Summary
+- Statistical Analysis
 - Correlation Analysis
 - Feature Exploration
 - Data Visualization
-- Pattern Recognition
+- Pattern Discovery
 - Insight Generation
 
-The datasets provide a practical foundation for understanding data characteristics before applying predictive modelling techniques.
+Both datasets are publicly available and are commonly used for learning, research, and data science projects.
