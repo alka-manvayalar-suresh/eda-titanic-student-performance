@@ -29,7 +29,7 @@ The Titanic dataset contains passenger information from the RMS Titanic disaster
 
 Kaggle Titanic Competition
 
-https://www.kaggle.com/c/titanic
+https://www.kaggle.com/datasets/yasserh/titanic-dataset
 
 ---
 
