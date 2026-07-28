@@ -4,7 +4,7 @@ This project uses two publicly available datasets to demonstrate Exploratory Dat
 
 ---
 
-## 🚢 Titanic Dataset
+## Titanic Dataset
 
 ### Description
 
@@ -33,7 +33,7 @@ https://www.kaggle.com/c/titanic
 
 ---
 
-## 🎓 Student Performance Dataset
+## Student Performance Dataset
 
 ### Description
 
