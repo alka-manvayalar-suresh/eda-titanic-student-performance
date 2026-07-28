@@ -104,5 +104,4 @@ The following visualizations were created during the analysis:
 - Visualizations simplified the understanding of distributions, trends, and outliers.
 
 ---
-- Matplotlib
-- Seaborn
+
