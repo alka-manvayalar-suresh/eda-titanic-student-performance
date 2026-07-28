@@ -1,6 +1,6 @@
-# 📊 Exploratory Data Analysis on Titanic and Student Performance Datasets
+# Exploratory Data Analysis on Titanic and Student Performance Datasets
 
-## 📖 Project Overview
+## Project Overview
 
 This project performs **Exploratory Data Analysis (EDA)** on the **Titanic** and **Student Performance** datasets to uncover meaningful patterns, relationships, and insights through data preprocessing, statistical analysis, and visualization.
 
@@ -8,7 +8,7 @@ The analysis demonstrates how EDA helps understand data distributions, detect mi
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 - Clean and preprocess raw datasets
 - Handle missing values
@@ -20,9 +20,9 @@ The analysis demonstrates how EDA helps understand data distributions, detect mi
 
 ---
 
-## 📊 Datasets
+##  Datasets
 
-### 🚢 Titanic Dataset
+###  Titanic Dataset
 
 The Titanic dataset contains passenger information including:
 
@@ -35,7 +35,7 @@ The Titanic dataset contains passenger information including:
 
 The objective is to analyse survival patterns and understand the factors that influenced passenger survival.
 
-### 🎓 Student Performance Dataset
+###  Student Performance Dataset
 
 The Student Performance dataset includes:
 
@@ -52,7 +52,7 @@ The objective is to explore the factors affecting students' academic performance
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - Pandas
@@ -63,7 +63,7 @@ The objective is to explore the factors affecting students' academic performance
 
 ---
 
-## 📈 Exploratory Data Analysis Techniques
+##  Exploratory Data Analysis Techniques
 
 This project includes:
 
@@ -78,7 +78,7 @@ This project includes:
 
 ---
 
-## 📉 Visualizations
+##  Visualizations
 
 The following visualizations were created during the analysis:
 
@@ -95,7 +95,7 @@ The following visualizations were created during the analysis:
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 
 - Missing values were identified and handled appropriately.
 - Correlation analysis helped identify relationships between numerical variables.
