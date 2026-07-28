@@ -32,21 +32,11 @@ The publication demonstrates the application of Exploratory Data Analysis (EDA) 
 
 ---
 
-## Publication Files
-
-- 📄 Research Paper (PDF)
-
----
-
 ## External Links
 
 **ResearchGate**
 
-(Add your ResearchGate publication link here.)
-
-**Journal / DOI**
-
-(Add the official journal or DOI link here.)
+https://www.researchgate.net/publication/370975981_Performance_Evaluation_of_Time_Series_Analysis_on_the_Dataset_of_Airline_Passengers_An_Exploratory_Data_Analysis
 
 ---
 
